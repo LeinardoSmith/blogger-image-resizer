@@ -15,4 +15,4 @@ To use BIR just go to the Layout tab in your blog. Add a new html widget in the 
 <script src='https://raw.githubusercontent.com/LeinardoSmith/blogger-image-resizer/master/blogger-image-resizer.js' type='text/javascript'></script>
 ```
 
-Then click the "Save Template" button below. Refresh your blog and you should have all the images nice and big.
+Then click the "Save Template" button below. Refresh your blog and you should have all the images nice and large.
